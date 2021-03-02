@@ -1,5 +1,4 @@
 # ChessGame
-Jogo de Xadrez feito em java
 
 # Instruções para o jogo
 Para jogar esse jogo, os jogadores devem, após executarem o projeto em um terminal, ou executarem o programa do próprio terminal do NetBeans, seguir as instruções fornecidas:
